@@ -1,0 +1,5 @@
+c:\users\andruska\documents\visual studio 2017\Projects\ConvertTicksToData\ConvertTicksToData\bin\Debug\ConvertTicksToData.exe.config
+c:\users\andruska\documents\visual studio 2017\Projects\ConvertTicksToData\ConvertTicksToData\bin\Debug\ConvertTicksToData.exe
+c:\users\andruska\documents\visual studio 2017\Projects\ConvertTicksToData\ConvertTicksToData\bin\Debug\ConvertTicksToData.pdb
+c:\users\andruska\documents\visual studio 2017\Projects\ConvertTicksToData\ConvertTicksToData\obj\Debug\ConvertTicksToData.exe
+c:\users\andruska\documents\visual studio 2017\Projects\ConvertTicksToData\ConvertTicksToData\obj\Debug\ConvertTicksToData.pdb
